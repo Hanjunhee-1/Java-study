@@ -1,0 +1,10 @@
+Java 에서 화면에 무언가를 출력하는 방법은 2가지가 있다.
+System.out.print() 와 System.out.println() 이다.
+
+각 내장함수는 다음과 같은 특징을 지닌다.
+
+    (1) System.out.print()
+        () 안에 들어있는 것을 출력해준다.
+
+    (2) System.out.println()
+        () 안에 들어있는 것을 출력해주고 줄바꿈을 해준다.
