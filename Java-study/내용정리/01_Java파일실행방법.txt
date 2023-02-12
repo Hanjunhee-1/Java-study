@@ -21,3 +21,7 @@ vscode 로 Java 프로젝트를 다뤄보기로 했다.
     2. '/src' 에 있는 '.java' 형식의 파일을 직접 'Run' 버튼을 통해 실행시킨다.
 
     2가지 방법 중 어느 방법을 사용할지는 자유이다. 
+
+
+.class 파일에 대한 참고링크
+    https://stackoverflow.com/questions/61370386/how-to-use-java-class-file-in-visual-studio-code
